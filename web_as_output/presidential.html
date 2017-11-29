@@ -1,0 +1,98 @@
+<!-- 
+EXTRA CREDIT ATTEMPT
+I have used data from my textual analysis of past presidential speeches.
+The collected data  is from the speeches with the highest instances of
+the words "war","fear","hope","change".
+ -->
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Inaugural Address Analysis</title>
+
+<style>
+
+   body {
+      display: block;
+      font-family: helvetica;
+      text-align: center;
+   }
+
+   #table1 {
+       color: black;
+       margin: auto;
+   }
+
+   td {
+      border: 1px solid rgb(200,200,200);
+      padding: 15px;
+      text-align: center;
+   }
+
+   #highlight {
+      background-color: green;
+      color: white;
+      font-style: bold;
+   }
+
+   .header {
+      font-weight: bold;
+      border: 2px solid rgb(200,200,200);
+      color: white;
+      background-color: rgb(100,100,100);
+   }
+
+</style>
+
+</head>
+<body>
+
+<h1>Inaugural Address Analysis</h1>
+<h4>Eli Cohen  |  CS 35 Harvey Mudd  |  5 February 2017</h4>
+
+<p>These tables summarize textual analysis of selected presidential inaugural addresses.<br>
+The Python scripts that support the analysis are part of the  accompanying repository.<br>
+It tracks the instances of four words: "war","fear","hope","change".</p>
+
+<table id="table1">
+<tr class=header >
+   <td>Innaugural Address (Year)</td>
+   <td>Instances of "war"</td>
+   <td>Instance of "fear"</td>
+   <td>Instances of "hope"</td>
+   <td>Instance of "change"</td>
+</tr>
+<tr>
+   <td class=header >1821</td>
+   <td id = highlight >16</td> 
+   <td>0</td>
+   <td>1</td>
+   <td>2</td>
+</tr>
+<tr>
+   <td class=header >1837</td>
+   <td>2</td>
+   <td id = highlight >4</td>
+   <td>3</td>
+   <td>0</td>
+</tr>
+<tr>
+   <td class=header >1909</td>
+   <td>6</td>
+   <td>1</td>
+   <td id = highlight >10</td>
+   <td>7</td>
+</tr>
+<tr>
+   <td class=header >1965</td>
+   <td>0</td>
+   <td>0</td>
+   <td>2</td>
+   <td id = highlight >12</td>
+</tr>
+</table>
+
+</body>
+
+</html>
