@@ -9,17 +9,11 @@ This GitHub repo contains the work I am doing for Computer Science 35 at Harvey 
 * Project to come…
 
 ### Web as Output / Web as Input
-* [Intentionally Horrific Webpage](https://github.com/elicohen518/Computer-Science-for-Insight/blob/master/web_as_output/unpresidential.html)
-* [Presidential Webpage](https://github.com/elicohen518/Computer-Science-for-Insight/blob/master/web_as_output/presidential.html)
-* [iTunes API Battle]() Project to come…
-* [News API Comparison]() Project to come…
+* [Intentionally Horrific Webpage](https://github.com/elibenton/Computer-Science-for-Insight/blob/master/web_as_output/unpresidential.html)
+* [Presidential Webpage](https://github.com/elibenton/Computer-Science-for-Insight/blob/master/web_as_output/presidential.html)
 
 ### Machine Learning (Nearest Neighbor)
-* [Machine v. Human Predictor]() Project to come…
-* [Handwritten Digit Predictor](https://github.com/elicohen518/Computer-Science-for-Insight/blob/master/machine_learning/digits.py)
-* [Handwritten Digit Dataset](https://github.com/elicohen518/Computer-Science-for-Insight/blob/master/machine_learning/digits.csv)
-* [Titanic Survival Predictor](https://github.com/elicohen518/Computer-Science-for-Insight/blob/master/machine_learning/titanic.py)
-* [Titanic Survival Dataset](https://github.com/elicohen518/Computer-Science-for-Insight/blob/master/machine_learning/titanic.csv)
-
-### Week 5 - Machine Learning (Decision Trees, Random Forest)
-* Project to come…
+* [Handwritten Digit Predictor](https://github.com/elibenton/Computer-Science-for-Insight/blob/master/machine_learning/digits.py)
+* [Handwritten Digit Dataset](https://github.com/elibenton/Computer-Science-for-Insight/blob/master/machine_learning/digits.csv)
+* [Titanic Survival Predictor](https://github.com/elibenton/Computer-Science-for-Insight/blob/master/machine_learning/titanic.py)
+* [Titanic Survival Dataset](https://github.com/elibenton/Computer-Science-for-Insight/blob/master/machine_learning/titanic.csv)
